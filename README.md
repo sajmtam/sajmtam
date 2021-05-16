@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajmtam a.ka @droidomon a.k.a @tarique1988
+- 👋 Hi, I’m Tarique Ali Mirza
 - 👀 I’m interested in Android App and Web API development.
 - 🌱 I’m currently learning Typescript while working on my first Typescript project.
 - 💞️ I’m looking to collaborate on Android Apps and Web APIs.
